@@ -595,7 +595,16 @@ greet()     # only if we add export greet in module MyProject
 
 """ ------ 10 multiple dispatch ------ """
 
+# The realization of polymorphism; Compared with OVERLOAD in C++ and abstract Class in Python
 
+
+# Extending the definition of an existing function for A new type
+
+
+# Defining A new method for an existing type
+
+
+# Dispatch on any finite number of arguments
 
 
 
